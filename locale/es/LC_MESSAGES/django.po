@@ -1,0 +1,59 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-29 13:54+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? "
+"1 : 2;\n"
+
+#: .\main\views.py:7
+msgid "Welcome"
+msgstr "Hola"
+
+#: .\multilang_site\settings.py:113
+msgid "English"
+msgstr "Inglés"
+
+#: .\multilang_site\settings.py:114
+msgid "French"
+msgstr "Francés"
+
+#: .\multilang_site\settings.py:115
+msgid "Spanish"
+msgstr ""
+
+#: .\templates\index.html:16
+msgid " Navbar "
+msgstr "barra de navegación"
+
+#: .\templates\index.html:23
+msgid " Home"
+msgstr "hogar"
+
+#: .\templates\index.html:26
+msgid " Link"
+msgstr "enlace"
+
+#: .\templates\index.html:45
+msgid " Languages"
+msgstr "Idiomas"
+
+#: .\templates\index.html:62
+msgid " first site in multilingual "
+msgstr " primer sitio en multilingüe "
+
+#~ msgid "Espagnole"
+#~ msgstr "Español"
