@@ -15,4 +15,5 @@ En rentrant sur le site peut choisir une langue avant d'être redirigé sur la p
 Les éléments **static** sont traduis soit en français soit en anglais, tandis que les éléments du blog dépendent de la personnes qui écrit le post.
 
 Ce n'est pas vraiment une réussite, car au final je n'est pas vraiment réussi. 
+
 _Mais j'ai appris beaucoup_ sur Django en peu de temps.
